@@ -34,4 +34,3 @@ var twoSum = function(nums, target) {
         }
         dictionary[nums[i]] = i;
     }
-}
